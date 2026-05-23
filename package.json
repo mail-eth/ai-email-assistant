@@ -1,0 +1,16 @@
+{
+  "name": "ai-email-assistant",
+  "version": "1.0.0",
+  "description": "Email drafting and response assistant powered by Xiaomi MiMo with tone adjustment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "xiaomi",
+    "mimo"
+  ],
+  "author": "mail-eth",
+  "license": "MIT"
+}
