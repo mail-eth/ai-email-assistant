@@ -7,7 +7,6 @@ Email drafting and response assistant powered by Xiaomi MiMo with tone adjustmen
 - Powered by Xiaomi MiMo API
 - Simple and intuitive interface
 - Real-time processing
-- Token consumption: 400K tokens/day
 
 ## 🚀 Quick Start
 
